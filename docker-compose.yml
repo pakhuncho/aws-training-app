@@ -12,6 +12,6 @@ services:
     environment:
       - POSTGRES_DB=aws_training_db
       - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=trainingpw!2$iloveit
+      - POSTGRES_PASSWORD=postgres
     volumes:
       - ./initdb:/docker-entrypoint-initdb.d

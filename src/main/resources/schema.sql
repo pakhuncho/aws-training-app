@@ -1,5 +1,5 @@
-DROP TABLE if exists m_user CASCADE;
-CREATE TABLE m_user (
+DROP TABLE if exists t_msg CASCADE;
+CREATE TABLE t_msg (
     id SERIAL PRIMARY KEY,
-    name VARCHAR(255) NOT NULL
+    msg VARCHAR(255) NOT NULL
 );

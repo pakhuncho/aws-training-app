@@ -1,4 +1,4 @@
-package com.example.aws_training_app;
+package com.example.awstrainingapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

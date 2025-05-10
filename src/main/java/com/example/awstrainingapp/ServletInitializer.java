@@ -1,4 +1,4 @@
-package com.example.aws_training_app;
+package com.example.awstrainingapp;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

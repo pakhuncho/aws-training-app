@@ -1,4 +1,4 @@
-package com.example.aws_training_app;
+package com.example.awstrainingapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
